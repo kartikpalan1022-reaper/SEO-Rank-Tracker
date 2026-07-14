@@ -26,25 +26,29 @@ The platform combines browser automation, AI-powered analysis, scheduled rank tr
 
 ## 📸 Screenshots
 
-### Home Page
+### 🏠 Home Page
 
-![Rank Pilot Home Page](./screenshots/home.png)
+<img width="1920" height="1200" alt="Rank Pilot Home Page" src="https://github.com/user-attachments/assets/8ef51161-1b6b-4ca4-aa5d-79d1912cbc50" />
 
-### Dashboard
+### 🎯 Keyword Rank Tracker
 
-![Rank Pilot Dashboard](./screenshots/dashboard.png)
+<img width="1920" height="1200" alt="Rank Pilot Keyword Rank Tracker" src="https://github.com/user-attachments/assets/08506b26-7b17-477c-abf1-c4079dc472ce" />
 
-### AI-Powered SEO Report
+### 📊 AI-Powered SEO Report
 
-![Rank Pilot SEO Report](./screenshots/seo-report.png)
+<img width="1920" height="1200" alt="Rank Pilot SEO Report" src="https://github.com/user-attachments/assets/e431db59-e5aa-4ccc-aa84-f0e1851fbed0" />
 
-### Keyword Rank Tracker
+### 🔍 Analyze Website
 
-![Rank Pilot Rank Tracker](./screenshots/rank-tracker.png)
+<img width="1920" height="1200" alt="Rank Pilot Analyze Website" src="https://github.com/user-attachments/assets/adc45b88-da1d-4c07-9df6-1f3cd9dcf890" />
 
-### Analysis History
+### 📈 Dashboard
 
-![Rank Pilot Analysis History](./screenshots/history.png)
+<img width="1920" height="1200" alt="Rank Pilot Dashboard" src="https://github.com/user-attachments/assets/fa969cc8-d534-495f-b976-4fe8dcb52a70" />
+
+### 🕒 Analysis History
+
+<img width="1920" height="1200" alt="Rank Pilot Analysis History" src="https://github.com/user-attachments/assets/fd0f3f03-f155-4ed3-9b2a-7b729d6894ff" />
 
 ## 🛠️ Tech Stack
 
