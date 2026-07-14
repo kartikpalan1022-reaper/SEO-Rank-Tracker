@@ -11,7 +11,7 @@ interface User{
 }
 
 
-interface AppContexttype{
+interface AppContextType{
     user: User | null;
     token: string | null;
     loading: boolean;
