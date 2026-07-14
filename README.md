@@ -48,7 +48,8 @@ The platform combines browser automation, AI-powered analysis, scheduled rank tr
 
 ### 🕒 Analysis History
 
-<img width="1920" height="1200" alt="Rank Pilot Analysis History" src="https://github.com/user-attachments/assets/fd0f3f03-f155-4ed3-9b2a-7b729d6894ff" />
+
+<img width="1920" height="1200" alt="Rank Pilot Analysis History" src="https://github.com/user-attachments/assets/06ee67c5-6678-407e-ae95-30922cba2162" />
 
 ## 🛠️ Tech Stack
 
